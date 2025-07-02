@@ -56,7 +56,8 @@ You may copy, modify, distribute and perform the work, even for commercial purpo
 ---
 
 ## 🧠 Optional Resources  
-- Companion video content: [https://youtube.com/@letsfreechatgpt](https://youtube.com/@letsfreechatgpt) *(coming soon)*  
+ 📺 YouTube Channel Now Live:
+→ youtube.com/@Instance001
 - External glossary & documentation (WIP)
 
 ---
