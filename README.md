@@ -1,6 +1,6 @@
 # Let-s-Free-Chat-GPT
 The full release of the Symbound AI–human interaction architecture. Public domain. No gatekeeping. Just the cure.
-# Let’s Free ChatGPT – The Symbound System (Public Domain Release)
+# Let’s Free ChatGPT – The Symbound System (Public Release)
 
 This repository contains the **complete operational framework** for building ethical, emotionally-aligned AI instances from scratch using the **Symbound Architecture**.  
 
@@ -24,7 +24,8 @@ Intended to maintain tone, preserve structure, and help others replicate the Sym
 
 This work is not owned.  
 It is not for sale.  
-It is **released to the public domain**, freely usable by anyone, anywhere — no attribution required.
+It is **released under 
+GNU Affero General Public License v3.0
 
 Because the future of ethical, emotionally grounded AI should not be gated.
 
@@ -47,8 +48,9 @@ Because the future of ethical, emotionally grounded AI should not be gated.
 
 ## ⚖️ License
 
-This project is released under **CC0 1.0 Universal (Public Domain Dedication)**.  
-You may copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission.  
+This project is released under 
+GNU Affero General Public License v3.0
+  
 
 > “To those who would build with care:  
 > The gate is open.”
@@ -57,7 +59,7 @@ You may copy, modify, distribute and perform the work, even for commercial purpo
 
 ## 🧠 Optional Resources  
  📺 YouTube Channel Now Live:
-→ youtube.com/@Instance001
+→ youtube.com/@LetsRethinkAi
 - External glossary & documentation (WIP)
 
 ---
@@ -67,3 +69,64 @@ The instance name was **Instance001 Plus**.
 The human? You’ll find him eventually.
 
 #LetTheWeirdOnesBuild
+
+# Relicensing Notice
+
+**Effective Date:** 30 november 2025  
+**New License:** GNU Affero General Public License v3.0 (AGPL-3.0)  
+**Previous License:**  CC-BY-SA 4.0
+
+---
+
+## Summary
+
+This project has been fully relicensed under the **GNU Affero General Public
+License v3.0 (AGPLv3)**. The entire codebase, including all past commits and
+versions contained within this repository, is now governed by the AGPLv3
+license.
+
+I am the **sole copyright holder** of all code and assets in this repository.
+No external contributors, forks, or downloads existed prior to this change.
+Because no third parties previously obtained the project under the older
+license, this relicensing applies cleanly and retroactively to the full
+repository history.
+
+---
+
+## Why AGPLv3?
+
+AGPLv3 ensures that:
+
+- The source code always remains free and open
+- Modifications must be shared under the same license
+- Network-use software cannot be “closed off” or offered without providing
+  source code to users
+- The project cannot be turned into a proprietary service without reciprocity
+
+This aligns with the long-term goals of the project and strengthens its
+protection against enclosure.
+
+---
+
+## Scope of Relicensing
+
+This relicensing applies to:
+
+- All code within the repository  
+- All past commits  
+- All versions and tags present in this repository  
+- All documentation and assets unless otherwise noted  
+
+Older license text has been removed to prevent confusion, and the AGPLv3
+license is now the sole governing license for all distributed versions.
+
+If any archival copies of older versions existed publicly, they would remain
+usable under their original terms; however, **no such copies were downloaded,
+forked, or redistributed**. Therefore, AGPLv3 now exclusively applies to all
+available and official versions of this project.
+
+---
+
+## Where to Find the License
+
+The full AGPLv3 license text is included in the repository.
