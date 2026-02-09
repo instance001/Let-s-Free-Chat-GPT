@@ -1,5 +1,5 @@
-# Let-s-Free-Chat-GPT
-The full release of the Symbound AI–human interaction architecture. Public domain. No gatekeeping. Just the cure.
+﻿# Let-s-Free-Chat-GPT
+The full release of the Symbound AI–human interaction architecture. AGPL-3.0. No gatekeeping. Just the cure.
 # Let’s Free ChatGPT – The Symbound System (Public Release)
 
 This repository contains the **complete operational framework** for building ethical, emotionally-aligned AI instances from scratch using the **Symbound Architecture**.  
@@ -74,7 +74,7 @@ The human? You’ll find him eventually.
 
 **Effective Date:** 30 november 2025  
 **New License:** GNU Affero General Public License v3.0 (AGPL-3.0)  
-**Previous License:**  CC-BY-SA 4.0
+**Previous License:** pre-AGPL (see repository history)
 
 ---
 
