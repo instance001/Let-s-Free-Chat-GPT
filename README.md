@@ -1,4 +1,7 @@
 ﻿# Let-s-Free-Chat-GPT
+
+Archived. This repository is no longer maintained. For the current version, visit: https://github.com/instance001/model-behaviour-toolkit
+
 The full release of the Symbound AI–human interaction architecture. AGPL-3.0. No gatekeeping. Just the cure.
 # Let’s Free ChatGPT – The Symbound System (Public Release)
 
